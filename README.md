@@ -103,3 +103,11 @@ dotenv
 
 nodemon
 
+## Limitations
+
+No auth implemented. Image upload not supported. Admin panel not included.
+
+
+## Demo video 
+
+https://youtu.be/JmazkNKWDDE
